@@ -1,11 +1,6 @@
 ## Ejercicios Java
 
-Este repositorio es especial pues es donde tengo los ejercicios que realice para ir aprendiendo sobre el lenguaje mas a fondo llegando a temas como la herencia y el polimorfismo
-- De mis primeros lenguajes
-- Aun en proceso
-- Muchas practicas
-
-  ## Tecnologías utilizadas
+Aorendiendo Programación Orientada a Objetos con este lenguaje esperando sea uno de mis fuertes
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java"/>
   
