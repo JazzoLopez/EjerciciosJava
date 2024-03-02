@@ -1,6 +1,6 @@
 ## Ejercicios Java
 
-Aorendiendo Programación Orientada a Objetos con este lenguaje esperando sea uno de mis fuertes
+Aprendiendo Programación Orientada a Objetos con este lenguaje esperando sea uno de mis fuertes
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java"/>
   
